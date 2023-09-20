@@ -8,8 +8,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The website is created from the ground up with an aim to make the 
+        content more accessible and enable all learners to hit the ground
+        running.
       </>
     ),
   },
@@ -18,18 +19,20 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We strive to create a path for any aspiring learner, and help them understand
+        the concepts easily. All the content is readily available on Github and 
+        this website.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Generated using SSGs',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       The website is generated using Static Site Generators, and we
+       are following the doc as code philosopy to make the content 
+       much more universally accessible.
       </>
     ),
   },
