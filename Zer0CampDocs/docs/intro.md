@@ -1,47 +1,26 @@
----
-sidebar_position: 1
----
+# Zerocamp Curriculum
 
-# Tutorial Intro
+To see the resources used for building Zerocamp's weekly learning modules: [Resources](./Resources.md)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Weekly learning modules will be added in: [Weekly modules directory](./weekly_modules)
 
-## Getting Started
+## About Zerocamp
 
-Get started by **creating a new site**.
+> Bootcamps are short-term, intensive training programs that provide students with practical and job-ready technical skills
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**Zerocamp** is a fully free and open, online coding bootcamp.
 
-### What you'll need
+ZeroCamp aims to help beginners launch their careers in the tech industry (no prior tech or coding experience needed). The boot camp provides a structured curriculum with weekly topics for learning, allowing students to choose their own resources/use recommended learning resources suggested by mentors. Each week, mentors conduct reviews and mock interviews to test students' understanding and progress. Students receive guidance to develop personal projects and build a portfolio as part of the curriculum.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Here are some of the highlights of ZeroCamp for Students:
+- Free education: ZeroCamp is a free and volunteer-run program without mandating anything in return from the students.
+- Mentorship: Students will have weekly calls with mentors to assess their progress and identify gaps in learning.
+- Job readiness preparation: You will learn the skills you need to succeed in a tech job, including how to write a resume, ace a job interview, etc.
+- Community: You will be part of a community of like-minded individuals who are all passionate about learning to code.
+- Open startup philosophy: We plan to run Zerocamp following the [Open startup](https://baremetrics.com/open-startups) philosophy. The entire program and its operations will be made open so that anyone can adapt or replicate Zerocamp.
 
-## Generate a new site
+If you like to partner/volunteer with us, please fill out [this form](https://forms.gle/1SiQ2YLQdMxKibtB8) or drop an email to zerocamp@digievo.in
 
-Generate a new Docusaurus site using the **classic template**.
+Read the program FAQS [here](https://github.com/Zer0Camp/.github/blob/main/profile/faqs.md)
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Apply to the first batch of Zerocamp [here](https://forms.gle/nJH3QPcRFcSmMuPr8)
