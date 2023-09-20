@@ -1,8 +1,8 @@
 # Zerocamp Curriculum
 
-To see the resources used for building Zerocamp's weekly learning modules: [Resources](./Resources.md)
+To see the resources used for building Zerocamp's weekly learning modules: [Resources](resources/Resources.md)
 
-Weekly learning modules will be added in: [Weekly modules directory](./weekly_modules)
+Weekly learning modules will be added in: [Weekly modules directory](category/weekly-modules)
 
 ## About Zerocamp
 
@@ -13,6 +13,7 @@ Weekly learning modules will be added in: [Weekly modules directory](./weekly_mo
 ZeroCamp aims to help beginners launch their careers in the tech industry (no prior tech or coding experience needed). The boot camp provides a structured curriculum with weekly topics for learning, allowing students to choose their own resources/use recommended learning resources suggested by mentors. Each week, mentors conduct reviews and mock interviews to test students' understanding and progress. Students receive guidance to develop personal projects and build a portfolio as part of the curriculum.
 
 Here are some of the highlights of ZeroCamp for Students:
+
 - Free education: ZeroCamp is a free and volunteer-run program without mandating anything in return from the students.
 - Mentorship: Students will have weekly calls with mentors to assess their progress and identify gaps in learning.
 - Job readiness preparation: You will learn the skills you need to succeed in a tech job, including how to write a resume, ace a job interview, etc.
