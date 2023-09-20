@@ -69,12 +69,12 @@ const config = {
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
+            position: 'right',
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Zer0Camp',
             label: 'GitHub',
             position: 'right',
           },
