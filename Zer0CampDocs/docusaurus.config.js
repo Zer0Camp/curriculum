@@ -95,6 +95,7 @@ const config = {
           {
             title: 'Community',
             items: [
+              // need to update these links with relevant community link
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
@@ -112,18 +113,18 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Zer0Camp',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Zero Camp. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
