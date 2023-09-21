@@ -12,10 +12,8 @@ jobs:
     steps:
       - name: Checkout Base Repo
         uses: actions/checkout@v3
-
       - name: PNPM Initialization
         uses: pnpm/action-setup@v2
-        working-directory: ./Zer0CampDocs
         with:
           version: 8
       - name: Setup Node Environment
@@ -25,7 +23,9 @@ jobs:
           cache: 'pnpm' 
       
       - name: Install dependencies
+        working-directory: ./Zer0CampDocs
         run: pnpm install --frozen-lockfile
       
       - name: Test Build Website
+        working-directory: ./Zer0CampDocs
         run: pnpm build
