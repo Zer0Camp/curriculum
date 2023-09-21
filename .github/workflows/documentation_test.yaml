@@ -15,9 +15,9 @@ jobs:
 
       - name: PNPM Initialization
         uses: pnpm/action-setup@v2
+        working-directory: ./Zer0CampDocs
         with:
           version: 8
-
       - name: Setup Node Environment
         uses: actions/setup-node@v3
         with:
