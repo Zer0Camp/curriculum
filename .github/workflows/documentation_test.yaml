@@ -23,9 +23,7 @@ jobs:
           cache: 'pnpm' 
       
       - name: Install dependencies
-        working-directory: ./Zer0CampDocs
         run: pnpm install --frozen-lockfile
       
       - name: Test Build Website
-        working-directory: ./Zer0CampDocs
         run: pnpm build
