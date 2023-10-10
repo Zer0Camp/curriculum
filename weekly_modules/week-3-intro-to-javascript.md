@@ -58,7 +58,7 @@ Use this website to visualise the JS scripts you write (trying this will be more
 
 _Choose 1 - 2 courses to cover this week's topics_
 
-* <span style="text-decoration:underline;">[_Free_ _Certificate_] [Freecodecamp - JS Course ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)</span>
+* [_Free_ _Certificate_] [Freecodecamp - JS Course ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [Opentechschool course](https://opentechschool.github.io/js-beginners-1/)
 * [Scrimba course](https://scrimba.com/learn/learnjavascript)
 * [Codecademy course](https://www.codecademy.com/learn/introduction-to-javascript)
@@ -67,7 +67,6 @@ _Choose 1 - 2 courses to cover this week's topics_
 * [JavaScript Tutorial](https://www.w3schools.com/js/) 
 
 **GIT:**
-
 
 
 * [_Recomended_] [Learn Git interactively](https://learngitbranching.js.org/)

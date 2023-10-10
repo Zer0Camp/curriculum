@@ -3,9 +3,7 @@
 Introduction to Javascript (and Programming)
 
 
-### Topics/Todos: 
-
-
+### Topics/Todos:
 
 * If you are new to coding: complete this short course: [https://www.codecademy.com/courses/learn-to-code-with-blockly/informationals/welcome-to-learn-to-code-with-blockly](https://www.codecademy.com/courses/learn-to-code-with-blockly/informationals/welcome-to-learn-to-code-with-blockly) 
 * HTML vs. CSS vs. JS
@@ -18,12 +16,9 @@ Introduction to Javascript (and Programming)
 
 Read the above once you completed the basics and try debugging any scripts you wrote.
 
-
-
 * [https://javascript30.com/](https://javascript30.com/) - Enroll in this free course and try to complete a minimum of 3 projects a day, to complete the entire course in 2 weeks. Skip the projects including topics that you don't know yet. Cover them in the next week after completing the week's topics.
 
 **Important**: Store all the projects you do somewhere online. You can use [replit](https://replit.com/~), codepen, etc.
-
 
 
 * **Week 3 Task 1:**
@@ -35,29 +30,21 @@ Try to complete this initial version of the task ASAP. Once you complete it, dro
 **Note**: Only proceed to the below sections after completing the above task. 
 
 
-
-
 * Git - Version control systems, branches in git, basic git commands - add, push, pull, fetch, merge.
 * Github - Create a GitHub account, use basic git commands to push any of your projects to Github.
 * Website hosting [Publishing your website - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website) 
-* Using Github pages, host any website you developed: [Deploy Your Portfolio Site to GitHub Pages for Free!](https://www.youtube.com/watch?v=XGcuxuhV-Jg) 
-
+* Using Github pages, host any website you developed: [Deploy Your Portfolio Site to GitHub Pages for Free!](https://www.youtube.com/watch?v=XGcuxuhV-Jg)
 
 ### Resources:
 
 
 _Students need not refer to every resource given. Select any 1/2 resources for a single topic_
 
-
-
-
 * [Recommended] [https://pythontutor.com/javascript.html#mode=edit](https://pythontutor.com/javascript.html#mode=edit)
 
 Use this website to visualise the JS scripts you write (trying this will be more helpful once you complete looping in JS)
 
 **Youtube Videos:**
-
-
 
 * Videos from 100Devs bootcamp: [Free Software Engineering Bootcamp - #100Devs - YouTube](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
 
@@ -71,9 +58,7 @@ Use this website to visualise the JS scripts you write (trying this will be more
 
 _Choose 1 - 2 courses to cover this week's topics_
 
-
-
-* <span style="text-decoration:underline;">[_Free_ _Certificate_] [Freecodecamp - JS Course ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)</span>
+* [_Free_ _Certificate_] [Freecodecamp - JS Course ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [Opentechschool course](https://opentechschool.github.io/js-beginners-1/)
 * [Scrimba course](https://scrimba.com/learn/learnjavascript)
 * [Codecademy course](https://www.codecademy.com/learn/introduction-to-javascript)
