@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzer_0_camp_docs=self.webpackChunkzer_0_camp_docs||[]).push([[580],{1565:e=>{e.exports=JSON.parse('{"title":"Resources","description":"Inital ","slug":"/category/resources","permalink":"/curriculum/docs/category/resources","navigation":{"next":{"title":"Resources","permalink":"/curriculum/docs/resources/"}}}')}}]);
