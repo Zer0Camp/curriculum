@@ -33,6 +33,8 @@ _Students need not refer to every resource given. Select any 1/2 resources for a
 
 Use [Python Tutor](https://pythontutor.com/)  - To see execution flow of code 
 
+[_Recommended_] Search [RealPython](realpython.com) for each topic in curriculum. They have good text tutorials on almost all Python topics.
+
 **Courses**:
 
 [Learn Python 3 | Codecademy](https://www.codecademy.com/learn/learn-python-3) 
